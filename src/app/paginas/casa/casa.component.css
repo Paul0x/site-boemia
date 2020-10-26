@@ -1,0 +1,17 @@
+.area-1{
+    margin-top: 20px;
+}
+
+.lista-casa {
+    margin: 10px;
+    border-top: 2px solid #86591d;
+}
+
+.lista-casa li {
+    margin: 25px 10px;
+    font-size: 1.1em;
+}
+
+small {
+    color: #999;
+}

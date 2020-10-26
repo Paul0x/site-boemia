@@ -1,0 +1,42 @@
+[
+    {
+        "apelido": "Zohan",
+        "id": 1,
+        "nome": "Júlio Cesar",
+        "curso": "Eng. de Controle e Automação",
+        "periodo": "2011/1",
+        "cidade": "Osasco-SP"
+    },
+    {
+        "apelido": "Timeleka",
+        "id": 2,
+        "nome": "Paulo Felipe",
+        "curso": "Eng. de Controle e Automação",
+        "periodo": "2012/1",
+        "cidade": "Belo Horizonte-MG"
+    },
+    {
+        "apelido": "Ansioso",
+        "id": 3,
+        "nome": "Vitor",
+        "curso": "Eng. de Produção",
+        "periodo": "2017/1",
+        "cidade": "Belo Horiozonte-MG"
+    },
+    {
+        "apelido": "Nu-Utero",
+        "id": 4,
+        "nome": "Igor",
+        "curso": "Física",
+        "periodo": "2019/1",
+        "cidade": "Carangola-ES"
+    },
+    {
+        "apelido": "Bixo Guilherme",
+        "id": 5,
+        "nome": "Guilherme",
+        "curso": "Física",
+        "periodo": "2020/1",
+        "cidade": "Carangola-ES"
+    }
+]

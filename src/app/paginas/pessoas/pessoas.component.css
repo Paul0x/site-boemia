@@ -1,0 +1,19 @@
+.pessoa {
+    text-align: center;
+    padding: 7px;
+}
+
+.pessoa-wrap {
+    border-bottom: 1px solid #eee;
+
+}
+
+.pessoa .apelido {
+    font-weight: bold;
+    color: #db8f2c;
+    font-size: 1.1em;
+}
+
+.pessoa .curso, .pessoa .cidade {
+    font-size: .7em;
+}

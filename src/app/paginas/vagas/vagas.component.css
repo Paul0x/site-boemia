@@ -1,0 +1,126 @@
+.main-title {
+    border-radius: 3px;
+    font-size: 3em;
+    background: #ffecd4;
+    font-weight: bold;
+    text-shadow: 0px 2px 0px hsl(35, 100%, 98%);
+    color: #86591d;
+    text-align: center;
+    border: 1px solid #86591d;
+    padding-bottom: 7px
+}
+
+.small-title
+{
+    line-height: 0.7em;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.vaga-info-main {
+    font-size: 1.1em;
+}
+
+.vaga-info-main li {
+    margin: 15px;
+}
+
+.vaga-info-main i {
+    color: #86591d;
+    margin-right: 20px;
+    font-size: 1.2em;
+}
+
+h3 {
+    margin-top: 20px !important;
+    display: block !important;
+    text-align: center;
+}
+
+.preco {
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.preco .value {
+    font-size: 2.4em;
+    color: #116623;
+    font-weight: bold;
+    text-align: center;
+}
+
+.preco small a{
+    font-size: .7em;
+    color: #999;
+}
+
+.vagas-conheca {
+    margin-top: 30px;
+}
+.vagas-conheca .col-md-4 {
+    font-size: 2.2em;
+    color: #fff;
+    font-weight: bolder;
+    line-height: 1em;
+    text-shadow: 2px 2px 0px #000;
+
+}
+.vagas-conheca a{
+    color: #fff;
+}
+.vagas-conheca a:hover {
+    text-decoration: none;
+}
+.vagas-conheca .casa { background: #aa650b url('/assets/images/vagas/bg1.jpg') no-repeat center; }
+.vagas-conheca .moradores {background: #aa650b url('/assets/images/vagas/2.jpg') no-repeat bottom center; }
+.vagas-conheca .historia {background: #aa650b url('/assets/images/vagas/bg2.jpg') no-repeat right; }
+.vagas-conheca .overlay { 
+    height: 250px;
+    padding: 70px;
+    background: url('/assets/images/vagas/overlay-black.png')}
+.vagas-conheca .overlay:hover { cursor: pointer; background: url('/assets/images/vagas/overlay-light.png')}
+.duvida {
+    margin: 12px 0px;
+}
+
+.duvida .title {
+    color: #86591d;
+    font-size: 1.2em;
+    padding: 3px;
+    cursor: pointer;
+    user-select: none;
+    border-bottom: 1px solid #dfd0be;
+}
+
+.duvida .content {
+    padding: 6px;
+    border-bottom: 1px solid #dfd0be;
+}
+
+.lista-duvida {
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.lista-duvida li {
+    border-left: 2px solid #86591d;
+    padding: 4px 8px;
+    margin: 3px;
+}
+
+.botao-contato {
+    width: 60%;
+    padding: 15px;
+    text-align: center;
+    margin: 15px auto;
+    border-radius: 4px;
+    border: 1px solid #86591d;
+    color: #86591d;
+    font-size: 1.4em;
+    cursor: pointer;
+}
+
+.botao-contato:hover {
+    background: #86591d;
+    color: #fff;
+}
