@@ -2,17 +2,45 @@
     border-radius: 3px;
     font-size: 3em;
     background: #ffecd4;
+    opacity: .8;
     font-weight: bold;
     text-shadow: 0px 2px 0px hsl(35, 100%, 98%);
     color: #86591d;
     text-align: center;
-    border: 1px solid #86591d;
-    padding-bottom: 7px
+    padding-bottom: 7px;
+    position: absolute;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: -350px;
+    margin-left: -15px;
+}
+
+.main-banner {
+    margin-bottom: 30px;
+    max-width: 100%;
+    overflow: hidden;
+}
+
+.main-title-sm {
+    border-radius: 3px;
+    font-size: 3em;
+    background: #ffecd4;
+    opacity: .8;
+    font-weight: bold;
+    text-shadow: 0px 2px 0px hsl(35, 100%, 98%);
+    color: #86591d;
+    text-align: center;
+    padding-bottom: 7px;
+}
+
+.main-image
+{
+    display: block;
+    margin-left: -15px;
 }
 
 .small-title
 {
-    line-height: 0.7em;
     display: block;
     margin-bottom: 20px;
 }

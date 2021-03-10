@@ -18,6 +18,8 @@
 body {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     background: #f4f4f4 !important;
+    max-width: 100% !important;
+    overflow-X: hidden;
 }
 
 .container-wrap .side-menu {
