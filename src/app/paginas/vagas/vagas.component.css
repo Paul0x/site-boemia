@@ -152,3 +152,19 @@ h3 {
     background: #86591d;
     color: #fff;
 }
+
+#whatsapp-wrap{
+    bottom: 0;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    right: 0;
+    position: fixed;
+    z-index: 100;
+    font-size: 2.5em; 
+    text-align: center;
+    color: #fff;
+}
+
+#whatsapp-wrap .square-wpp {
+    color: #4FCE5D;
+}

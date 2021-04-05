@@ -8,14 +8,6 @@
         "cidade": "Osasco-SP"
     },
     {
-        "apelido": "Timeleka",
-        "id": 2,
-        "nome": "Paulo Felipe",
-        "curso": "Eng. de Controle e Automação",
-        "periodo": "2012/1",
-        "cidade": "Belo Horizonte-MG"
-    },
-    {
         "apelido": "Ansioso",
         "id": 3,
         "nome": "Vitor",
@@ -30,6 +22,14 @@
         "curso": "Física",
         "periodo": "2019/1",
         "cidade": "Carangola-ES"
+    },
+    {
+        "apelido": "Timeleka",
+        "id": 2,
+        "nome": "Paulo Felipe",
+        "curso": "Eng. de Controle e Automação",
+        "periodo": "2012/1",
+        "cidade": "Belo Horizonte-MG"
     },
     {
         "apelido": "Bixo Guilherme",
