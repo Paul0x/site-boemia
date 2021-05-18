@@ -38,5 +38,21 @@
         "curso": "Física",
         "periodo": "2020/1",
         "cidade": "Carangola-ES"
+    },
+    {
+        "apelido": "Bixo Chico",
+        "id": 6,
+        "nome": "Chico",
+        "curso": "Economia",
+        "periodo": "2018/1",
+        "cidade": "Passos-MG"
+    },
+    {
+        "apelido": "Bixo Daniel",
+        "id": 7,
+        "nome": "Daniel",
+        "curso": "Museologia",
+        "periodo": "2020/2",
+        "cidade": "Ouro Preto-MG"
     }
 ]
